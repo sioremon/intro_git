@@ -1,0 +1,2 @@
+practicing git
+learning fundamental of git workflow
