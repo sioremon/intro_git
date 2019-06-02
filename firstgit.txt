@@ -1,2 +1,4 @@
 practicing git
 learning fundamental of git workflow
+git add
+git status
