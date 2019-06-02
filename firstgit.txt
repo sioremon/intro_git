@@ -3,3 +3,4 @@ learning fundamental of git workflow
 git add
 git status
 git rm
+git status
